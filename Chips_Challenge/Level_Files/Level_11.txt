@@ -1,0 +1,55 @@
+17,20,
+#################
+#       #       #
+#               #
+#       #       #
+#####   #########
+#           #   #
+#               #
+#           #   #
+#####   #########
+#               #
+#               #
+## ##########   #
+#   #       #   #
+#   #       #   #
+#   #       #   #
+## ####### ##   #
+#   #       #   #
+#   #       #   #
+#   #       #   #
+#################
+Player,2,2,0,
+Goal,14,17,
+KeyDoor,8,2,BLUE,2,6,
+KeyDoor,2,11,GREEN,10,2,
+KeyDoor,12,6,RED,10,17,
+TokenDoor,2,15,10,
+TokenDoor,10,15,4,
+Token,14,2,
+Token,8,6,
+Token,9,6,
+Token,10,6,
+Token,15,9,
+Token,5,16,
+Token,6,16,
+Token,7,16,
+Token,5,17,
+Token,6,17,
+Token,7,17,
+Token,5,18,
+Token,6,18,
+Token,7,18,
+FireBoots,2,17,
+Fire,13,11,
+Fire,14,11,
+Fire,15,11,
+Flippers,14,6,
+Water,12,1,
+Water,12,2,
+Water,12,3,
+Teleporter,3,13,5,13,
+LineEnemy,4,5,2,
+LineEnemy,8,12,2,
+LineEnemy,15,13,3,
+LineEnemy,13,15,1,

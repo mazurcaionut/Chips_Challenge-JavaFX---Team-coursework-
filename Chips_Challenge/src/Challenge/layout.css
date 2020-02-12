@@ -1,0 +1,92 @@
+.root {
+    -fx-background-image: url('/images/BACKGROUND.png');
+    -fx-background-repeat: stretch;
+    -fx-background-size: 960 720;
+}
+
+.separator {
+
+}
+
+.label {
+
+}
+
+.label1 {
+    -fx-font-size: 30px;
+}
+
+#label2 {
+    -fx-font-size: 30px;
+    -fx-text-fill: red;
+}
+
+#back {
+    -fx-spacing: 30;
+}
+
+.button {
+    -fx-font-size: 20px;
+    -fx-font-family: Chalkduster, fantasy;
+    -fx-text-fill: white;
+    -fx-background-color: linear-gradient(to bottom, #3333cc 0%, #00ccff 100%);
+    -fx-pref-width: 280;
+    -fx-pref-height: 50;
+    -fx-border-style: solid;
+    -fx-border-width: 5px;
+    -fx-border-color: linear-gradient(to bottom, #3333cc 0%, #669900 100%);
+    -fx-transition-duration : 0.3s;
+    -fx-cursor: pointer;
+}
+
+.button:hover {
+    -fx-background-color: white;
+    -fx-text-fill:linear-gradient(to bottom, #3333cc 0%, #00ccff 100%);
+}
+
+.button1 {
+    -fx-pref-width: 200;
+    -fx-pref-height: 30;
+    -fx-font-size: 15px;
+}
+
+.combo-box {
+    -fx-text-fill: white;
+    -fx-font-size: 20px;
+    -fx-background-color: linear-gradient(to bottom, #3333cc 0%, #00ccff 100%);;
+    -fx-pref-width: 280;
+    -fx-pref-height: 50;
+    -fx-border-style: solid;
+    -fx-border-width: 5px;
+    -fx-border-color: linear-gradient(to bottom, #3333cc 0%, #669900 100%);
+}
+
+.combo-box:hover {
+    -fx-background-color: white;
+}
+
+#pauseMenu {
+    -fx-background-image: url('/images/BACKGROUND.png');
+    -fx-background-repeat: stretch;
+    -fx-background-size: 350 350;
+    -fx-background-position: center center;
+}
+
+#miniInventory {
+    -fx-background-color: linear-gradient(to top left, #663300 0%, #336600 100%);;
+    -fx-border-color: white;
+    -fx-border-width: 7px;
+
+}
+
+#Inventory {
+
+}
+
+#game {
+
+}
+
+#maps {
+
+}
