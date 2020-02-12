@@ -1,0 +1,11 @@
+Level_1 - 3
+Level_2 - 4
+Level_3 - 12
+Level_4 - 24
+Level_5 - 0
+Level_6 - 0
+Level_7 - 0
+Level_8 - 0
+Level_9 - 0
+Level_10 - 0
+Level_11 - 0
